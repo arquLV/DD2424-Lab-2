@@ -1,0 +1,4 @@
+cifar-10-python.tar.gz
+data/
+.DS_Store
+.ipynb_checkpoints/
